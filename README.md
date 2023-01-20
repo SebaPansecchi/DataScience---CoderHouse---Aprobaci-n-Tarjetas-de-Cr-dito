@@ -33,6 +33,6 @@ El modelo que mejores resultados arrojó fue el modelo de clasificación random 
             weighted avg   0.90      0.90      0.90     48582
 
 # 📝 Notas
-* El modelo actualmente utilizado es Random Forest, pero se pueden probar otros modelos modificando el código en "train_model.py".
-* Para mayor detalle mirar 
+* El modelo actualmente utilizado es Random Forest, pero se pueden probar otros modelos modificando el código en ["Proyecto_final_Dondeo,Novellino,Pansecchi,Pretini.ipynb"](https://github.com/SebaPansecchi/DataScience-Aprobacion-Tarjetas-de-Credito/blob/main/Proyecto%20final%20Dondo%2CNovellino%2CPansecchi%2CPretini.pdf).
+* Para mayor detalle mirar ["Proyecto final Dondo,Novellino,Pansecchi,Pretini.pdf"](https://github.com/SebaPansecchi/DataScience-Aprobacion-Tarjetas-de-Credito/blob/main/Proyecto%20final%20Dondo%2CNovellino%2CPansecchi%2CPretini.pdf)
 * El conjunto de datos utilizado es solo para fines de demostración y no debe ser utilizado para tomar decisiones financieras reales.
